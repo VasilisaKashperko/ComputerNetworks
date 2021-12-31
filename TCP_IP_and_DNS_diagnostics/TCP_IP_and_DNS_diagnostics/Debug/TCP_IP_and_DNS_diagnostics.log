@@ -1,0 +1,18 @@
+﻿  TCP_IP_and_DNS_diagnostics.cpp
+D:\Учеба в БГТУ\Миронов И.А. КС\Лабораторная 7\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics.cpp(16,1): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(173): message : см. предыдущее определение "IP_DEST_NET_UNREACHABLE"
+D:\Учеба в БГТУ\Миронов И.А. КС\Лабораторная 7\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics.cpp(17,1): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(174): message : см. предыдущее определение "IP_DEST_HOST_UNREACHABLE"
+D:\Учеба в БГТУ\Миронов И.А. КС\Лабораторная 7\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics.cpp(18,1): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(175): message : см. предыдущее определение "IP_DEST_PROT_UNREACHABLE"
+D:\Учеба в БГТУ\Миронов И.А. КС\Лабораторная 7\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics.cpp(19,1): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(176): message : см. предыдущее определение "IP_DEST_PORT_UNREACHABLE"
+D:\Учеба в БГТУ\Миронов И.А. КС\Лабораторная 7\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics.cpp(20,1): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(181): message : см. предыдущее определение "IP_REQ_TIMED_OUT"
+D:\Учеба в БГТУ\Миронов И.А. КС\Лабораторная 7\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics.cpp(21,1): warning C4005: IP_BAD_REQ: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(182): message : см. предыдущее определение "IP_BAD_REQ"
+D:\Учеба в БГТУ\Миронов И.А. КС\Лабораторная 7\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics.cpp(22,1): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(183): message : см. предыдущее определение "IP_BAD_ROUTE"
+D:\Учеба в БГТУ\Миронов И.А. КС\Лабораторная 7\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics\TCP_IP_and_DNS_diagnostics.cpp(23,1): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(184): message : см. предыдущее определение "IP_TTL_EXPIRED_TRANSIT"
+  TCP_IP_and_DNS_diagnostics.vcxproj -> D:\Учеба в БГТУ\Миронов И.А. КС\Лабораторная 7\TCP_IP_and_DNS_diagnostics\Debug\TCP_IP_and_DNS_diagnostics.exe
